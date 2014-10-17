@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[doq:home|Door43 (doq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-doq|d43-doq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-doq/archive/master.zip|d43-doq.zip]]
+
+**Recent Changes**
+{{changes>ns = doq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/doq|Ethnologue data]]
+
